@@ -1,0 +1,3 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Satorideemz/Ejercicio-lista-diccionario/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Satorideemz/Ejercicio-lista-diccionario/tree/main)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ea8568ec8cdc0914aa6f/maintainability)](https://codeclimate.com/github/Satorideemz/Ejercicio-lista-diccionario/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ea8568ec8cdc0914aa6f/test_coverage)](https://codeclimate.com/github/Satorideemz/Ejercicio-lista-diccionario/test_coverage)
